@@ -45,5 +45,5 @@ Custom WordPress website developed for Moon Family Spa, a premium family-oriente
 Open to discussing similar spa, wellness, massage therapy, Ayurvedic, or beauty WordPress projects!
 
 📧 eshbanoliver@gmail.com
-LinkedIn: [[your-linkedin-profile] ](https://in.linkedin.com/in/eshban-oliver-757352372) 
+LinkedIn: https://in.linkedin.com/in/eshban-oliver-757352372
 Location: Udaipur-based client project
