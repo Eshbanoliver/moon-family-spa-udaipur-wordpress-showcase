@@ -15,7 +15,6 @@ Custom WordPress website developed for Moon Family Spa, a premium family-oriente
 - Services showcase: Ayurvedic Body Massage, Thai Body Massage, Deep Tissue Therapy, Couple Massage, Aromatherapy, Hot Towel Massage, Relaxation Massage, Lomi Lomi, Unisex Spa Services
 - About section highlighting premium wellness treatments, genuine hospitality, peaceful environment, holistic approach, and becoming a trusted name in Udaipur wellness
 - Photo gallery of spa ambiance, treatment rooms, and relaxing moments
-- Contact/Appointment section with phone, email (moonfamilyspa28@gmail.com), address (Haridas Ji Ki Mangri, Hotel Trident Road, Malla Talai Circle, Malla Talai, Udaipur, Rajasthan 313001), and inquiry/booking form
 - FAQ section for common spa queries
 - Responsive, tranquil design optimized for wellness visuals (mobile-first)
 - SEO-friendly for local Udaipur spa/massage searches
